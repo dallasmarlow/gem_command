@@ -1,4 +1,4 @@
-### tiny wrapper around programmatically executing Gem::Commands
+#### tiny wrapper around programmatically executing Gem::Commands
 `gem install gem_command`
 
 #### usage:
